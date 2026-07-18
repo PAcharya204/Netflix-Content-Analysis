@@ -54,7 +54,7 @@ This page provides a quick overview of Netflix content through:
 - Netflix Content Added by Year
 - Interactive Filters
 
-![Dashboard Page 1](Images/Dashboard_Page1.png)
+![Dashboard Page 1](Images/Netflix_Page1.png)
 
 ---
 
@@ -69,7 +69,7 @@ This page focuses on detailed insights such as:
 - Movie Duration Distribution
 - TV Show Seasons Distribution
 
-![Dashboard Page 2](Images/Dashboard_Page2.png)
+![Dashboard Page 2](Images/Netflix_Page2.png)
 
 ---
 
